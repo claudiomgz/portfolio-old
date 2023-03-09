@@ -297,10 +297,11 @@ p {
   background: #5f8697;
 }
 
-.imagen {
-  margin: 0 auto; /* Centra el div horizontalmente */
-  max-width: 600px; /* Establece un ancho máximo para el div */
-  width: 100%; /* Ajusta el ancho del div al ancho del contenedor padre */
+.wrapper .imagen {
+  display: block; /* Hace que la imagen sea un bloque */
+  margin: 0 auto; /* Centra la imagen horizontalmente */
+  max-width: 100%; /* Establece un ancho máximo del 100% */
+  height: auto; /* Ajusta la altura automáticamente */
 }
 
 .footer {
