@@ -297,7 +297,7 @@ p {
   background: #5f8697;
 }
 
-.imagen {
+img {
   display: block; /* Hace que la imagen sea un bloque */
   margin: 0 auto; /* Centra la imagen horizontalmente */
   max-width: 50%;
