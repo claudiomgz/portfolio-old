@@ -181,8 +181,6 @@ p {
   background: #fff;
   padding: 60px;
   padding-right: 300px;
-  position: relative; /*borrar*/
-  border: 1px solid #ccc; /*borrar*/
 }
 
 .main-wrapper .section-title {
@@ -302,12 +300,6 @@ p {
 .imagen {
   display: block; /* Hace que la imagen sea un bloque */
   margin: 0 auto; /* Centra la imagen horizontalmente */
-  position: absolute;
-  top: 50px;
-  left: 50px;
-  width: 400px;
-  height: 200px;
-  border: 1px solid blue;
 }
 
 .footer {
