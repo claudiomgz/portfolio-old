@@ -181,6 +181,10 @@ p {
   background: #fff;
   padding: 60px;
   padding-right: 300px;
+  position: relative; /*borrar*/
+  width: 500px; /*borrar*/
+  height: 300px; /*borrar*/
+  border: 1px solid #ccc; /*borrar*/
 }
 
 .main-wrapper .section-title {
@@ -297,11 +301,15 @@ p {
   background: #5f8697;
 }
 
-.wrapper .imagen {
+.imagen {
   display: block; /* Hace que la imagen sea un bloque */
   margin: 0 auto; /* Centra la imagen horizontalmente */
-  max-width: 100%; /* Establece un ancho máximo del 100% */
-  height: auto; /* Ajusta la altura automáticamente */
+  position: absolute;
+  top: 50px;
+  left: 50px;
+  width: 400px;
+  height: 200px;
+  border: 1px solid blue;
 }
 
 .footer {
