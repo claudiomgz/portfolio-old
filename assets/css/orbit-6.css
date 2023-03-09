@@ -1,4 +1,4 @@
-.imagen {
+img .imagen {
   display: block; /* Hace que la imagen sea un bloque */
   margin: 0 auto; /* Centra la imagen horizontalmente */
   max-width: 10%;
