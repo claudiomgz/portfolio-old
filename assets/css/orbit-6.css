@@ -1,6 +1,7 @@
 .imagen img {
   display: block; /* Hace que la imagen sea un bloque */
   margin: 0 auto; /* Centra la imagen horizontalmente */
+  padding: 5%;
   max-width: 10%;
   max-height: 10%;
   -webkit-mask-image: linear-gradient(rgb(60, 85, 96), rgb(60, 85, 96)); /* Máscara negra */
