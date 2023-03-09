@@ -297,6 +297,10 @@ p {
   background: #5f8697;
 }
 
+.imagen {
+  margin: 0 auto;
+}
+
 .footer {
   padding: 15px;
 }
