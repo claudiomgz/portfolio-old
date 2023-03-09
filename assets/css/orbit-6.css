@@ -300,8 +300,8 @@ p {
 img {
   display: block; /* Hace que la imagen sea un bloque */
   margin: 0 auto; /* Centra la imagen horizontalmente */
-  max-width: 50%;
-  max-height: 50%;
+  max-width: 20%;
+  max-height: 20%;
 }
 
 .footer {
